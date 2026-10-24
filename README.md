@@ -52,7 +52,7 @@ A practice repository for strengthening data structures, algorithms, and problem
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanq&show_icons=true&theme=tokyonight&hide_border=true" alt="Himanshu's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanq&layout=compact&theme=tokyonight&hide_border=true&hide=C" alt="Top Languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=himanq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
