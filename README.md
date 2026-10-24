@@ -59,7 +59,6 @@ A practice repository for strengthening data structures, algorithms, and problem
 
 ## 🌐 Find Me Around the Web
 
-- 💼 LinkedIn: [Himanshu Dixit](https://www.linkedin.com/in/mehimanshudixit)
 - 💻 GitHub: [@himanq](https://github.com/himanq)
 - 🧠 LeetCode: [Himanshu](https://leetcode.com/u/hima_anshu/)
 - 👨‍💻 GeeksforGeeks: [Himanshu](https://www.geeksforgeeks.org/profile/hdixit6ymr)
@@ -68,9 +67,7 @@ A practice repository for strengthening data structures, algorithms, and problem
 
 <div align="center">
 
-### Thanks for stopping by! 👋
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70" alt="Waving hand animation" />
+### Thanks for stopping by
 
 <i>“Consistency beats intensity. Keep learning, keep building.”</i>
 
