@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **ABES Engineering College** (expected 2028).
-- 🌱 Currently learning **Java, Data Structures & Algorithms, JavaScript, and Python**.
+- 🌱 Currently learning **Java, Data Structures & Algorithms, Langchain, and Python**.
 - 💡 Interested in **web development, software engineering, and applied AI/ML**.
 - 🔨 I learn by building projects, solving problems, and improving my code step by step.
 - 🎯 Looking for opportunities to learn, collaborate, and contribute through internships.
