@@ -1,76 +1,121 @@
-<!-- Profile README for Himanshu Dixit | repository name must match the GitHub username: himanq -->
+<!-- THE BUILD LOG — personal developer profile -->
 
 <div align="center">
 
-# Himanshu Dixit
-
-### Computer Science Student · Developer · Curious Builder
-
-I build to understand how things work — then improve them one iteration at a time.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=HIMANSHU%20DIXIT&fontColor=C9F31D&fontSize=42&fontAlignY=42&desc=THE%20BUILD%20LOG%20%2F%2F%20LEARNING%20IN%20PUBLIC&descSize=13&descColor=E6EDF3&descAlignY=67" alt="Himanshu Dixit — The Build Log"/>
 
 <p>
-  <a href="https://github.com/himanq"><img src="https://img.shields.io/badge/GitHub-himanq-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/mehimanshudixit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/himanq"><img src="https://img.shields.io/badge/GitHub-himanq-C9F31D?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mehimanshudixit"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9F31D" alt="LinkedIn"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Learning+Java+and+DSA;Building+for+the+web;Exploring+Python+and+applied+AI;Turning+small+ideas+into+working+projects" alt="Currently learning Java, DSA, web development, Python and applied AI"/>
+</div>
+
+> **Not a finished product. A public build log.**  
+> Notes from learning computer science, shipping projects, breaking things, and making them better.
+
+---
+
+## `01 / THE PREMISE`
+
+I'm Himanshu — a Computer Science & Engineering student at **ABES Engineering College**, expected to graduate in **2028**.
+
+I'm interested in the space where problem-solving meets useful software. Right now, that means strengthening my Java and DSA fundamentals, building for the web, and exploring Python and applied AI through hands-on projects.
+
+I don't want a profile that only lists technologies. I want the repositories here to show what I can make, what I'm learning, and how the work improves over time.
+
+## `02 / HOW I BUILD`
+
+```text
+Understand the problem
+        ↓
+Build the smallest useful version
+        ↓
+Test it · Find the rough edges
+        ↓
+Refine the experience and code
+        ↓
+Document what changed
+```
+
+My current focus:
+
+- **Problem solving** — Java, data structures, algorithms, and learning to explain the reasoning behind a solution.
+- **Web development** — HTML, CSS, JavaScript, and building interfaces that feel intentional.
+- **Applied AI / Python** — exploring practical uses instead of adding AI just for a label.
+
+## `03 / SELECTED BUILDS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↗ HireSense</h3>
+      <p>A resume-focused web project that I'm refining into a stronger, more usable portfolio piece.</p>
+      <a href="https://github.com/himanq/HireSense">OPEN REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ DSA Revision</h3>
+      <p>A growing collection for practising data structures, algorithms, and interview-style problem solving.</p>
+      <a href="https://github.com/himanq/DSA-RE">OPEN REPOSITORY →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↗ OOPs in Java</h3>
+      <p>Java object-oriented programming notes and practice material, built alongside my learning.</p>
+      <a href="https://github.com/himanq/OOPS-JAVA">OPEN REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ AI Resume Screening</h3>
+      <p>A Python project exploring resume-screening concepts and applied machine learning.</p>
+      <a href="https://github.com/himanq/AI_RESUME_SCREENING">OPEN REPOSITORY →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↗ AgriPulse</h3>
+      <p>A crop-price tracker project focused on agricultural pricing information.</p>
+      <a href="https://github.com/himanq/agripulse-crop-price-tracker">OPEN REPOSITORY →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ The next build</h3>
+      <p>Still exploring ideas. The goal is simple: make the next project more useful than the last.</p>
+    </td>
+  </tr>
+</table>
+
+## `04 / WORKBENCH`
+
+<p>
+  <img src="https://img.shields.io/badge/JAVA-learning-C9F31D?style=flat-square&logo=openjdk&logoColor=0D1117" alt="Java"/>
+  <img src="https://img.shields.io/badge/DSA-practising-C9F31D?style=flat-square" alt="Data structures and algorithms"/>
+  <img src="https://img.shields.io/badge/PYTHON-exploring-C9F31D?style=flat-square&logo=python&logoColor=0D1117" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-building-C9F31D?style=flat-square" alt="HTML, CSS and JavaScript"/>
+  <img src="https://img.shields.io/badge/GIT%20%2F%20GITHUB-using-C9F31D?style=flat-square&logo=github&logoColor=0D1117" alt="Git and GitHub"/>
+</p>
+
+## `05 / TOOLS IN THE KIT`
+
+`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
+
+Learning is in progress; the list reflects tools I work with or am actively learning, not mastery claims.
+
+## `06 / THE ACTIVITY LOG`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himanq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9F31D&icon_color=C9F31D&text_color=E6EDF3" alt="GitHub activity statistics"/>
 
 </div>
 
 ---
 
-## A little about me
-
-- 🎓 B.Tech in Computer Science & Engineering at **ABES Engineering College** — expected **2028**.
-- 🧩 Practising **Java, data structures and algorithms**, with a focus on understanding the logic rather than memorising solutions.
-- 🌐 Building with **HTML, CSS and JavaScript**; exploring **Python and applied AI**.
-- 🛠️ Interested in practical software, thoughtful user experience, and projects that solve a clear problem.
-- 🤝 Open to learning with others, meaningful contributions, and suitable internship opportunities.
-
-## What I'm working with
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-## Selected work
-
-| Project | What it is | Repository |
-|---|---|---|
-| **HireSense** | A resume-focused web project I'm developing and refining. | [Explore ↗](https://github.com/himanq/HireSense) |
-| **DSA Revision** | A growing practice space for data structures, algorithms, and problem-solving. | [Explore ↗](https://github.com/himanq/DSA-RE) |
-| **OOPs in Java** | Java object-oriented programming notes and practice material. | [Explore ↗](https://github.com/himanq/OOPS-JAVA) |
-| **AI Resume Screening** | A Python project exploring resume screening concepts. | [Explore ↗](https://github.com/himanq/AI_RESUME_SCREENING) |
-| **AgriPulse** | A crop-price tracker project. | [Explore ↗](https://github.com/himanq/agripulse-crop-price-tracker) |
-
-## How I like to build
-
-`Learn → Build → Test → Refine → Document`
-
-I value readable code, honest documentation, and small improvements that make a project more useful. This profile is a record of that process—not a claim to have mastered everything listed here.
-
-## GitHub activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanq&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub account statistics"/>
+**Currently writing the next chapter.**
 
-<img src="https://streak-stats.demolab.com?user=himanq&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/himanq">EXPLORE THE REPOSITORIES</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/mehimanshudixit">CONNECT ON LINKEDIN</a>
 
-</div>
-
----
-
-<div align="center">
-
-**Thanks for stopping by.** Feel free to explore the repositories or connect on [LinkedIn](https://www.linkedin.com/in/mehimanshudixit).
-
-<sub>Always learning. Always iterating.</sub>
+<sub>BUILD LOG / 2026 — learn openly, build deliberately, improve continuously.</sub>
 
 </div>
