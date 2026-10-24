@@ -75,3 +75,5 @@ A practice repository for strengthening data structures, algorithms, and problem
 <i>“Consistency beats intensity. Keep learning, keep building.”</i>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:90E0EF&height=120&section=footer" alt="Animated blue ocean waves footer" />
