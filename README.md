@@ -1,153 +1,73 @@
-<!--
-  HIMANSHU DIXIT | THE BUILD LOG
-  An original, deliberately compact engineering notebook.
--->
+<!-- Classic profile README recreated from the style used before the redesign -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/himanq/himanq/main/assets/field-notes.svg" width="100%" alt="The Build Log — Himanshu Dixit. Make useful things. Understand every part." />
-  <br/><br/>
-  <a href="https://github.com/himanq?tab=repositories">REPOSITORIES</a> &nbsp;·&nbsp;
-  <a href="https://github.com/himanq/HireSense">FLAGSHIP BUILD</a> &nbsp;·&nbsp;
-  <a href="mailto:himanshudixit09531@gmail.com">CONTACT</a>
+
+# Hi 👋, I'm Himanshu Dixit
+
+### 💻 Computer Science Engineering Student | Aspiring Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+Java+%26+Data+Structures;Building+with+JavaScript+and+Python;Exploring+Web+Development+%26+AI%2FML" alt="Typing SVG" />
+
+<a href="https://github.com/himanq"><img src="https://img.shields.io/badge/GitHub-himanq-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/mehimanshudixit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## 🙋‍♂️ About Me
 
-## 00 / The premise
+- 🎓 B.Tech Computer Science & Engineering student at **ABES Engineering College** (expected 2028).
+- 🌱 Currently learning **Java, Data Structures & Algorithms, Langchain, and Python**.
+- 💡 Interested in **web development, software engineering, and applied AI/ML**.
+- 🔨 I learn by building projects, solving problems, and improving my code step by step.
+- 🎯 Looking for opportunities to learn, collaborate, and contribute through internships.
 
-I'm **Himanshu Dixit**, a B.Tech Computer Science & Engineering student at **ABES Engineering College** (expected 2028).
-
-I’m here to learn how to build software that is useful, explainable, and thoughtfully finished. I like taking a real problem, reducing it to a clear first version, and improving it through testing and feedback.
-
-**Current orbit:** Java · JavaScript · Python · web development · applied ML
-
-</td>
-<td width="42%" valign="top">
-
-### CURRENT STATUS
-
-`MODE` &nbsp; learning by shipping  
-`FOCUS` &nbsp; build quality  
-`DEFAULT` &nbsp; curious, not finished  
-`LOOKING FOR` &nbsp; internship opportunities
-
-**Working principle:** evidence over exaggeration.
-
-</td>
-</tr>
-</table>
-
-## 01 / How I build
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/himanq/himanq/main/assets/build-loop.svg" width="100%" alt="Five-step build loop: notice friction, build small, test honestly, write down trade-offs, repeat." />
-</div>
-
-I don’t want a profile full of things I can’t explain. I want a few projects where the code, setup, decisions, and limitations make sense to another developer.
-
-## 02 / Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### A — HireSense
-**A resume-review toolkit in the browser**
-
-A static HTML/CSS/JavaScript project for structured resume feedback. It checks content and section signals, compares resume terms with a job description, and generates editable report/draft templates.
-
-- **Implementation:** vanilla JavaScript, separated analysis logic, Node’s built-in test runner.
-- **Design decision:** transparent heuristics instead of pretending to be an official ATS.
-- **Boundary:** its score is a checklist signal—not a hiring probability or official ATS score.
-
-[READ THE CODE ↗](https://github.com/himanq/HireSense)
-
-</td>
-<td width="50%" valign="top">
-
-### B — AI Resume Screening
-**An applied machine-learning experiment**
-
-A Streamlit dashboard around a scikit-learn Random Forest pipeline, with preprocessing, a fixed train/test split, classification metrics, confusion matrix, and feature-importance exploration.
-
-- **Implementation:** Python, Pandas, scikit-learn, Streamlit.
-- **Evaluation:** the repository records results on its supplied dataset and a held-out split.
-- **Boundary:** results on demonstration data do not establish real-world hiring performance; this should not make employment decisions.
-
-[READ THE CODE ↗](https://github.com/himanq/AI_RESUME_SCREENING)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### C — DSA Revision
-**A practice log, not a trophy counter**
-
-A topic-organized collection for revisiting coding problems and building familiarity with patterns such as binary search, sliding window, arrays, strings, and hash tables.
-
-- **Goal:** explain the approach, dry-run edge cases, and revisit problems until the logic sticks.
-- **In progress:** strengthening problem-solving consistency.
-
-[BROWSE PRACTICE ↗](https://github.com/himanq/DSA-RE)
-
-</td>
-<td width="50%" valign="top">
-
-### D — What makes a build credible?
-
-For each project I want a reviewer to find four things without guesswork:
-
-1. What problem is being addressed?
-2. How do I run or try it?
-3. What has actually been tested?
-4. What are the current limitations?
-
-That standard is more important to me than inflated metrics, unearned labels, or a wall of decorative badges.
-
-</td>
-</tr>
-</table>
-
-## 03 / The workbench
-
-<table>
-<tr><td width="24%"><strong>BUILD</strong></td><td>Responsive web experiences and small tools with clear user flows.</td></tr>
-<tr><td><strong>STRENGTHEN</strong></td><td>Java, object-oriented programming, data structures, and algorithmic reasoning.</td></tr>
-<tr><td><strong>EXPLORE</strong></td><td>Python data workflows and the evaluation side of machine-learning projects.</td></tr>
-<tr><td><strong>IMPROVE</strong></td><td>Testing, documentation, accessibility, edge cases, and the small details that make software feel complete.</td></tr>
-</table>
-
-## 04 / Tools in the kit
+## 🛠️ Tech Stack
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-18252D?style=flat-square&logo=openjdk&logoColor=F89820" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-18252D?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-18252D?style=flat-square&logo=python&logoColor=4AA3DF" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-18252D?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-18252D?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-18252D?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-These are tools I’m actively using or learning through projects—not a claim of equal expertise in every technology.
+## 🚀 Featured Projects
 
-## 05 / Notes to future me
+### 🔹 [HireSense](https://github.com/himanq/HireSense)
+A resume-focused web project for reviewing and improving application materials.  
+**Tech:** HTML · CSS · JavaScript
 
-- Ship fewer features, but understand them end-to-end.
-- Make setup instructions work for someone other than me.
-- Keep examples and numbers traceable to evidence.
-- Treat feedback as a shortcut to better engineering, not as a personal score.
+### 🔹 [AI Resume Screening](https://github.com/himanq/AI_RESUME_SCREENING)
+A Python project exploring resume screening with machine-learning concepts.  
+**Tech:** Python · Machine Learning
+
+### 🔹 [DSA Revision](https://github.com/himanq/DSA-RE)
+A practice repository for strengthening data structures, algorithms, and problem-solving fundamentals.  
+**Focus:** Java · DSA
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanq&show_icons=true&theme=tokyonight&hide_border=true" alt="Himanshu's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanq&layout=compact&theme=tokyonight&hide_border=true&hide=C" alt="Top Languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=himanq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🌐 Find Me Around the Web
+
+- 💼 LinkedIn: [Himanshu Dixit](https://www.linkedin.com/in/mehimanshudixit)
+- 💻 GitHub: [@himanq](https://github.com/himanq)
+- 🧠 LeetCode: [Himanshu](https://leetcode.com/u/hima_anshu/)
+- 👨‍💻 GeeksforGeeks: [Himanshu](https://www.geeksforgeeks.org/profile/hdixit6ymr)
 
 ---
 
 <div align="center">
-  <strong>Make useful things. Understand every part.</strong><br/>
-  <sub>Computer Science student · ABES Engineering College · Open to internship opportunities</sub><br/><br/>
-  <a href="https://www.linkedin.com/in/mehimanshudixit">LINKEDIN</a> &nbsp;·&nbsp;
-  <a href="mailto:himanshudixit09531@gmail.com">EMAIL</a> &nbsp;·&nbsp;
-  <a href="https://github.com/himanq">GITHUB</a>
+  <i>“Consistency beats intensity. Keep learning, keep building.”</i>
+  <br/><br/>
+
 </div>
