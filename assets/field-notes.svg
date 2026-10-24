@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Himanshu Dixit — Engineering Field Notes</title>
+<desc id="desc">Minimal dark technical banner with grid lines, a bright chartreuse accent, and the phrase Build with intent. Test with evidence. Learn in public.</desc>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#263342" stroke-width="1"/></pattern>
+  <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#101820"/><stop offset="1" stop-color="#172431"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#fade)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)" opacity=".72"/>
+<rect x="54" y="48" width="7" height="244" rx="3" fill="#D7FF64"/>
+<text x="88" y="82" fill="#D7FF64" font-family="monospace" font-size="15" letter-spacing="4">FIELD NOTES / 001</text>
+<text x="86" y="155" fill="#F4F7F9" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Himanshu Dixit</text>
+<text x="89" y="197" fill="#B8C5D0" font-family="monospace" font-size="19">COMPUTER SCIENCE · BUILDER IN PROGRESS</text>
+<line x1="89" y1="225" x2="1110" y2="225" stroke="#435361" stroke-width="1"/>
+<text x="89" y="263" fill="#F4F7F9" font-family="Arial, Helvetica, sans-serif" font-size="22">Build with intent.</text>
+<text x="330" y="263" fill="#D7FF64" font-family="Arial, Helvetica, sans-serif" font-size="22">Test with evidence.</text>
+<text x="605" y="263" fill="#F4F7F9" font-family="Arial, Helvetica, sans-serif" font-size="22">Learn in public.</text>
+<text x="89" y="306" fill="#8093A3" font-family="monospace" font-size="12" letter-spacing="2">JAVA / JAVASCRIPT / PYTHON</text>
+<circle cx="1103" cy="72" r="8" fill="#D7FF64"/><circle cx="1078" cy="72" r="4" fill="#708394"/><circle cx="1060" cy="72" r="4" fill="#435361"/>
+</svg>
