@@ -1,121 +1,153 @@
-<!-- THE BUILD LOG — personal developer profile -->
+<!--
+  HIMANSHU DIXIT | THE BUILD LOG
+  An original, deliberately compact engineering notebook.
+-->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=HIMANSHU%20DIXIT&fontColor=C9F31D&fontSize=42&fontAlignY=42&desc=THE%20BUILD%20LOG%20%2F%2F%20LEARNING%20IN%20PUBLIC&descSize=13&descColor=E6EDF3&descAlignY=67" alt="Himanshu Dixit — The Build Log"/>
-
-<p>
-  <a href="https://github.com/himanq"><img src="https://img.shields.io/badge/GitHub-himanq-C9F31D?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mehimanshudixit"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9F31D" alt="LinkedIn"/></a>
-</p>
-
+  <img src="https://raw.githubusercontent.com/himanq/himanq/main/assets/field-notes.svg" width="100%" alt="The Build Log — Himanshu Dixit. Make useful things. Understand every part." />
+  <br/><br/>
+  <a href="https://github.com/himanq?tab=repositories">REPOSITORIES</a> &nbsp;·&nbsp;
+  <a href="https://github.com/himanq/HireSense">FLAGSHIP BUILD</a> &nbsp;·&nbsp;
+  <a href="mailto:himanshudixit09531@gmail.com">CONTACT</a>
 </div>
 
-> **Not a finished product. A public build log.**  
-> Notes from learning computer science, shipping projects, breaking things, and making them better.
-
 ---
-
-## `01 / THE PREMISE`
-
-I'm Himanshu — a Computer Science & Engineering student at **ABES Engineering College**, expected to graduate in **2028**.
-
-I'm interested in the space where problem-solving meets useful software. Right now, that means strengthening my Java and DSA fundamentals, building for the web, and exploring Python and applied AI through hands-on projects.
-
-I don't want a profile that only lists technologies. I want the repositories here to show what I can make, what I'm learning, and how the work improves over time.
-
-## `02 / HOW I BUILD`
-
-```text
-Understand the problem
-        ↓
-Build the smallest useful version
-        ↓
-Test it · Find the rough edges
-        ↓
-Refine the experience and code
-        ↓
-Document what changed
-```
-
-My current focus:
-
-- **Problem solving** — Java, data structures, algorithms, and learning to explain the reasoning behind a solution.
-- **Web development** — HTML, CSS, JavaScript, and building interfaces that feel intentional.
-- **Applied AI / Python** — exploring practical uses instead of adding AI just for a label.
-
-## `03 / SELECTED BUILDS`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ HireSense</h3>
-      <p>A resume-focused web project that I'm refining into a stronger, more usable portfolio piece.</p>
-      <a href="https://github.com/himanq/HireSense">OPEN REPOSITORY →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>↗ DSA Revision</h3>
-      <p>A growing collection for practising data structures, algorithms, and interview-style problem solving.</p>
-      <a href="https://github.com/himanq/DSA-RE">OPEN REPOSITORY →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ OOPs in Java</h3>
-      <p>Java object-oriented programming notes and practice material, built alongside my learning.</p>
-      <a href="https://github.com/himanq/OOPS-JAVA">OPEN REPOSITORY →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>↗ AI Resume Screening</h3>
-      <p>A Python project exploring resume-screening concepts and applied machine learning.</p>
-      <a href="https://github.com/himanq/AI_RESUME_SCREENING">OPEN REPOSITORY →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>↗ AgriPulse</h3>
-      <p>A crop-price tracker project focused on agricultural pricing information.</p>
-      <a href="https://github.com/himanq/agripulse-crop-price-tracker">OPEN REPOSITORY →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>↗ The next build</h3>
-      <p>Still exploring ideas. The goal is simple: make the next project more useful than the last.</p>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+## 00 / The premise
+
+I'm **Himanshu Dixit**, a B.Tech Computer Science & Engineering student at **ABES Engineering College** (expected 2028).
+
+I’m here to learn how to build software that is useful, explainable, and thoughtfully finished. I like taking a real problem, reducing it to a clear first version, and improving it through testing and feedback.
+
+**Current orbit:** Java · JavaScript · Python · web development · applied ML
+
+</td>
+<td width="42%" valign="top">
+
+### CURRENT STATUS
+
+`MODE` &nbsp; learning by shipping  
+`FOCUS` &nbsp; build quality  
+`DEFAULT` &nbsp; curious, not finished  
+`LOOKING FOR` &nbsp; internship opportunities
+
+**Working principle:** evidence over exaggeration.
+
+</td>
+</tr>
 </table>
 
-## `04 / WORKBENCH`
-
-<p>
-  <img src="https://img.shields.io/badge/JAVA-learning-C9F31D?style=flat-square&logo=openjdk&logoColor=0D1117" alt="Java"/>
-  <img src="https://img.shields.io/badge/DSA-practising-C9F31D?style=flat-square" alt="Data structures and algorithms"/>
-  <img src="https://img.shields.io/badge/PYTHON-exploring-C9F31D?style=flat-square&logo=python&logoColor=0D1117" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-building-C9F31D?style=flat-square" alt="HTML, CSS and JavaScript"/>
-  <img src="https://img.shields.io/badge/GIT%20%2F%20GITHUB-using-C9F31D?style=flat-square&logo=github&logoColor=0D1117" alt="Git and GitHub"/>
-</p>
-
-## `05 / TOOLS IN THE KIT`
-
-`Java` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `GitHub`
-
-Learning is in progress; the list reflects tools I work with or am actively learning, not mastery claims.
-
-## `06 / THE ACTIVITY LOG`
+## 01 / How I build
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9F31D&icon_color=C9F31D&text_color=E6EDF3" alt="GitHub activity statistics"/>
-
+  <img src="https://raw.githubusercontent.com/himanq/himanq/main/assets/build-loop.svg" width="100%" alt="Five-step build loop: notice friction, build small, test honestly, write down trade-offs, repeat." />
 </div>
+
+I don’t want a profile full of things I can’t explain. I want a few projects where the code, setup, decisions, and limitations make sense to another developer.
+
+## 02 / Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### A — HireSense
+**A resume-review toolkit in the browser**
+
+A static HTML/CSS/JavaScript project for structured resume feedback. It checks content and section signals, compares resume terms with a job description, and generates editable report/draft templates.
+
+- **Implementation:** vanilla JavaScript, separated analysis logic, Node’s built-in test runner.
+- **Design decision:** transparent heuristics instead of pretending to be an official ATS.
+- **Boundary:** its score is a checklist signal—not a hiring probability or official ATS score.
+
+[READ THE CODE ↗](https://github.com/himanq/HireSense)
+
+</td>
+<td width="50%" valign="top">
+
+### B — AI Resume Screening
+**An applied machine-learning experiment**
+
+A Streamlit dashboard around a scikit-learn Random Forest pipeline, with preprocessing, a fixed train/test split, classification metrics, confusion matrix, and feature-importance exploration.
+
+- **Implementation:** Python, Pandas, scikit-learn, Streamlit.
+- **Evaluation:** the repository records results on its supplied dataset and a held-out split.
+- **Boundary:** results on demonstration data do not establish real-world hiring performance; this should not make employment decisions.
+
+[READ THE CODE ↗](https://github.com/himanq/AI_RESUME_SCREENING)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### C — DSA Revision
+**A practice log, not a trophy counter**
+
+A topic-organized collection for revisiting coding problems and building familiarity with patterns such as binary search, sliding window, arrays, strings, and hash tables.
+
+- **Goal:** explain the approach, dry-run edge cases, and revisit problems until the logic sticks.
+- **In progress:** strengthening problem-solving consistency.
+
+[BROWSE PRACTICE ↗](https://github.com/himanq/DSA-RE)
+
+</td>
+<td width="50%" valign="top">
+
+### D — What makes a build credible?
+
+For each project I want a reviewer to find four things without guesswork:
+
+1. What problem is being addressed?
+2. How do I run or try it?
+3. What has actually been tested?
+4. What are the current limitations?
+
+That standard is more important to me than inflated metrics, unearned labels, or a wall of decorative badges.
+
+</td>
+</tr>
+</table>
+
+## 03 / The workbench
+
+<table>
+<tr><td width="24%"><strong>BUILD</strong></td><td>Responsive web experiences and small tools with clear user flows.</td></tr>
+<tr><td><strong>STRENGTHEN</strong></td><td>Java, object-oriented programming, data structures, and algorithmic reasoning.</td></tr>
+<tr><td><strong>EXPLORE</strong></td><td>Python data workflows and the evaluation side of machine-learning projects.</td></tr>
+<tr><td><strong>IMPROVE</strong></td><td>Testing, documentation, accessibility, edge cases, and the small details that make software feel complete.</td></tr>
+</table>
+
+## 04 / Tools in the kit
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-18252D?style=flat-square&logo=openjdk&logoColor=F89820" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-18252D?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-18252D?style=flat-square&logo=python&logoColor=4AA3DF" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-18252D?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-18252D?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-18252D?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+These are tools I’m actively using or learning through projects—not a claim of equal expertise in every technology.
+
+## 05 / Notes to future me
+
+- Ship fewer features, but understand them end-to-end.
+- Make setup instructions work for someone other than me.
+- Keep examples and numbers traceable to evidence.
+- Treat feedback as a shortcut to better engineering, not as a personal score.
 
 ---
 
 <div align="center">
-
-**Currently writing the next chapter.**
-
-<a href="https://github.com/himanq">EXPLORE THE REPOSITORIES</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/mehimanshudixit">CONNECT ON LINKEDIN</a>
-
-<sub>BUILD LOG / 2026 — learn openly, build deliberately, improve continuously.</sub>
-
+  <strong>Make useful things. Understand every part.</strong><br/>
+  <sub>Computer Science student · ABES Engineering College · Open to internship opportunities</sub><br/><br/>
+  <a href="https://www.linkedin.com/in/mehimanshudixit">LINKEDIN</a> &nbsp;·&nbsp;
+  <a href="mailto:himanshudixit09531@gmail.com">EMAIL</a> &nbsp;·&nbsp;
+  <a href="https://github.com/himanq">GITHUB</a>
 </div>
