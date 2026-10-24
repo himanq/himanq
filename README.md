@@ -67,7 +67,11 @@ A practice repository for strengthening data structures, algorithms, and problem
 ---
 
 <div align="center">
-  <i>“Consistency beats intensity. Keep learning, keep building.”</i>
-  <br/><br/>
+
+### Thanks for stopping by! 👋
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70" alt="Waving hand animation" />
+
+<i>“Consistency beats intensity. Keep learning, keep building.”</i>
 
 </div>
