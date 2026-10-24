@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Himanshu Dixit — Software Field Notes</title>
+  <desc id="desc">A custom dark-green engineering notebook banner with a lime accent, connected nodes, and the phrase build useful things, understand every layer.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d4e5d0" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17251c"/>
+      <stop offset="1" stop-color="#0b120e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#wash)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M0 300H1200" stroke="#d7f7a4" stroke-opacity=".18"/>
+  <path d="M730 0L980 360M825 0L1075 360M920 0L1170 360" stroke="#d7f7a4" stroke-opacity=".08"/>
+  <rect x="58" y="43" width="7" height="7" fill="#cdf477"/>
+  <text x="78" y="51" fill="#c5d5c6" font-family="monospace" font-size="12" letter-spacing="3">FIELD NOTES / 001 — SOFTWARE</text>
+  <text x="58" y="145" fill="#f2f5eb" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">HIMANSHU DIXIT</text>
+  <text x="60" y="191" fill="#d5f58d" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" letter-spacing="-.5">Build useful things. Understand every layer.</text>
+  <text x="60" y="235" fill="#becabe" font-family="monospace" font-size="13" letter-spacing="1">CSE STUDENT  /  DEVELOPER IN PROGRESS  /  BUILDER BY PRACTICE</text>
+  <g transform="translate(925 150)">
+    <circle cx="0" cy="0" r="104" fill="none" stroke="#c8f277" stroke-opacity=".2"/>
+    <circle cx="0" cy="0" r="77" fill="none" stroke="#c8f277" stroke-opacity=".36" stroke-dasharray="4 8"/>
+    <circle cx="0" cy="0" r="48" fill="#c8f277"/>
+    <text x="0" y="11" fill="#122016" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">HD.</text>
+    <path d="M0 -104V-132M104 0H132M0 104V132M-104 0H-132" stroke="#c8f277" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="-132" r="4" fill="#c8f277"/><circle cx="132" cy="0" r="4" fill="#c8f277"/><circle cx="0" cy="132" r="4" fill="#c8f277"/><circle cx="-132" cy="0" r="4" fill="#c8f277"/>
+  </g>
+  <text x="60" y="326" fill="#8d9d8d" font-family="monospace" font-size="10" letter-spacing="2">OBSERVE → BUILD → TEST → IMPROVE</text>
+  <text x="1140" y="326" fill="#8d9d8d" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="2">ABES / 2028</text>
+</svg>
