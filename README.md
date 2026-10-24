@@ -61,13 +61,13 @@ A practice repository for strengthening data structures, algorithms, and problem
 
 - 💼 LinkedIn: [Himanshu Dixit](https://www.linkedin.com/in/mehimanshudixit)
 - 💻 GitHub: [@himanq](https://github.com/himanq)
-- 🧠 LeetCode: [Explore LeetCode](https://leetcode.com/)
-- 👨‍💻 GeeksforGeeks: [Explore GfG](https://www.geeksforgeeks.org/)
+- 🧠 LeetCode: [Himanshu](https://leetcode.com/u/hima_anshu/)
+- 👨‍💻 GeeksforGeeks: [Himanshu](https://www.geeksforgeeks.org/profile/hdixit6ymr)
 
 ---
 
 <div align="center">
   <i>“Consistency beats intensity. Keep learning, keep building.”</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=himanq&style=flat-square&color=blue" alt="Profile views"/>
+
 </div>
